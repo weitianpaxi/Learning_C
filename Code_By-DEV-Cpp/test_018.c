@@ -1,4 +1,4 @@
-//test_018.c--Ñ}”µµÄËÄ„tß\Ëã¡£
+//test_018.c--è¤‡æ•¸å››å‰‡é‹ç®—ã€‚
 
 #include <stdio.h>
 struct Complex{
